@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Read Chan Privacy and Policy
 
-You can use the [editor on GitHub](https://github.com/readchan/readchan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Firebase Analytics
+Read Chan uses Firebase Analytics to collect data for generating statistics on the number of active users, crash reports, and activity page views.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Changes to privacy policies
+This privacy policy is subjected to change at any time. You acknowledge and agree that it is your responsibility to periodically review this privacy policy and become aware of modifications.
 
-### Markdown
+## Your acceptance of these terms
+By using Read Chan, you signify your acceptance of this policy. If you do not agree to these terms then please do not use this application. Your continued use of this application following those changes to this policy will be deemed your acceptance of those changes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 4chan Policies
+You must accepts 4chan\'s rules and policies found here: https://www.4chan.org/rules
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/readchan/readchan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+You can reach me at readchan@deezus.com
